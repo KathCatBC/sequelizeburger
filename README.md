@@ -1,5 +1,0 @@
-# sequelizeburger
-
-
-
-test
